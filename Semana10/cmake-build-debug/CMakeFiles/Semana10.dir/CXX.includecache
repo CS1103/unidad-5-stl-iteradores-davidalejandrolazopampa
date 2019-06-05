@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David Lazo/CLionProjects/Semana10/main.cpp
+iostream
+-
+rango.h
+C:/Users/David Lazo/CLionProjects/Semana10/rango.h
+
+C:/Users/David Lazo/CLionProjects/Semana10/rango.h
+
